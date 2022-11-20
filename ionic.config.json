@@ -1,0 +1,7 @@
+{
+  "name": "farm_care",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
